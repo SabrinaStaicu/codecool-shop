@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html th:replace="product/index.html :: layout(~{::content})">
+<!--<html th:replace="product/index.html :: index(~{content})">-->
+<body>
+<div th:fragment="content">
+  <div class="card">
+    <strong th:text="${supplier.name}">Category Title</strong>
+  </div>
+
+  <div id="products" class="row">
+    <div class="col col-sm-12 col-md-6 col-lg-4" th:each="prod,iterStat : ${products}">
+      <div class="card">
+        <img class="" src="http://placehold.it/400x250/000/fff" th:attr="src='/static/img/product_' + ${prod.id} + '.jpg'" alt="" />
+        <div class="card-header">
+          <h4 class="card-title" th:text="${prod.name}">Product name</h4>
+          <p class="card-text" th:text="${prod.description}">Product description... </p>
+        </div>
+        <div class="card-body">
+          <div class="card-text">
+            <p class="lead" th:text="${prod.getPrice()}">100 USD</p>
+          </div>
+          <div class="card-text">
+            <button type="submit" class="btn btn-success" th:attr="href='/add_to_cart?item_id=' + ${prod.id}">Add to cart</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

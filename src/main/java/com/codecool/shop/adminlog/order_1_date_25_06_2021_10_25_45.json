@@ -1,0 +1,16 @@
+{"id":1,
+  "name":"name",
+  "email":null,
+  "phoneNumber":"+40123456789",
+  "address":"SomeStre nr.1",
+  "city":"Bucharest",
+  "state":"bruh","zip":"123456",
+  "cardHolderName":"sassa",
+  "cardNumber":"212412412",
+  "cardExpirationDate":"222",
+  "cardCVV":"22",
+  "products":[
+    {
+    "id":5,"name":"Galaxy X Fold 2","defaultPrice":"1799.000000","defaultCurrency":"USD","productCategory":"Mobile Phones","supplier":"Samsung"},
+    {"id":4,"name":"Samsung Galaxy A8","defaultPrice":"300.000000","defaultCurrency":"USD","productCategory":"Mobile Phones","supplier":"Samsung"},
+    {"id":2,"name":"Lenovo IdeaPad Miix 700","defaultPrice":"479.000000","defaultCurrency":"USD","productCategory":"Tablet","supplier":"Lenovo"}]}

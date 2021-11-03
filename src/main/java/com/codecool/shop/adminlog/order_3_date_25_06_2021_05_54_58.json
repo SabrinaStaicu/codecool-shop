@@ -1,0 +1,24 @@
+{
+  "id":3,
+  "name":"name",
+  "email":null,
+  "phoneNumber":"+40123456789",
+  "address":"SomeStre nr.1",
+  "city":"Bucharest",
+  "state":"bruh",
+  "zip":"123456",
+  "cardHolderName":"a",
+  "cardNumber":"2232 23123 231231 2312",
+  "cardExpirationDate":"222",
+  "cardCVV":"22",
+  "products":[
+    {
+    "id":4,
+    "name":"Samsung Galaxy A8",
+      "defaultPrice":"300.000000",
+      "defaultCurrency":"USD",
+      "productCategory":"Mobile Phones",
+      "supplier":"Samsung"
+    }
+  ]
+}
