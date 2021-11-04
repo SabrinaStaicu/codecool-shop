@@ -1,4 +1,25 @@
 # Codecool shop
+
+<summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+<ol>
+ <li>
+    <a href="#intro">Intro</a>
+</li>
+<li>
+    <a href="#technologies">Technologies</a>
+</li>
+<li>
+    <a href="#about-the-project">About The Project</a>
+</li>
+<li>
+    <a href="#overview">Overview</a>
+</li>
+  <li>
+    <a href="#getting-started!">Getting Started</a>
+</li>
+</ol>
+
+## Intro
 Codecool Shop is a e-commerce type web application where users can browse and buy various items.
 
 ## Technologies
