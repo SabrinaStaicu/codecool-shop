@@ -15,7 +15,7 @@
     <a href="#overview">Overview</a>
 </li>
   <li>
-    <a href="#getting-started!">Getting Started</a>
+    <a href="#getting-started">Getting Started</a>
 </li>
 </ol>
 
