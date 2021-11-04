@@ -17,19 +17,19 @@ Codecool Shop is a e-commerce type web application where users can buy various i
 - The cart "remove item" button uses JS to send a http request to the server and then refreshes
 
 ## Overview
-- Mainpage with category and supplier filters
+- Mainpage with category and supplier filters<br/>
 ![Image](https://i.imgur.com/Li6WlY1.png)<br/>
 
-- Cart modal
+- Cart modal<br/>
 ![Image](https://i.imgur.com/2AQCF9Z.png)<br/>
 
-- Checkout page
+- Checkout page<br/>
 ![Image](https://i.imgur.com/0ssX0qb.png)<br/>
 
-- Payment page
+- Payment page<br/>
 ![Image](https://i.imgur.com/tDmZhrr.png)<br/>
 
-- Purchase overview page
+- Purchase overview page<br/>
 ![Image](https://i.imgur.com/phCmPVo.png)<br/>
 
 ## Getting started!
