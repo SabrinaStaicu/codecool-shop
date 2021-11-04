@@ -42,3 +42,4 @@ This project was developed in IntelliJ IDEA Ultimate
 You can do that by running the following command in your terminal, make sure you are in the right directory.
 ```git clone https://github.com/github_username/repo_name.git```
 - Open the project in your IDE (Maven projects are opened by opening the pom.xml file as a project) and run the maven jetty:run command in the terminal or in IntelliJ configure the Run/Debug command line parameter as "jetty:run"
+- Write ```0.0.0.0:8080``` in your address bar and press enter. That's it!
