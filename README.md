@@ -36,10 +36,14 @@ Codecool Shop is a e-commerce type web application where users can browse and bu
 1. Install Open JDK
 Make sure that the latest LTS (Long Term Support) at least Open Java Development Kit (JDK) is installed on your system.
 Executing the java --version command in the shell shows at least the latest LTS version number.
+
 2. Install an IDE that supports Maven and Java
 This project was developed in IntelliJ IDEA Ultimate
+
 3. Clone the repo to your local machine
 You can do that by running the following command in your terminal, make sure you are in the right directory.
 ```git clone https://github.com/github_username/repo_name.git```
+
 4. Open the project in your IDE (Maven projects are opened by opening the pom.xml file as a project) and run the maven jetty:run command in the terminal or in IntelliJ configure the Run/Debug command line parameter as "jetty:run"
+
 5. Write ```0.0.0.0:8080``` in your address bar and press enter. That's it!
